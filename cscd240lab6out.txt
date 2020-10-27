@@ -1,0 +1,110 @@
+ clang-7 -pthread -lm -o main array.c lab6.c main.c sort.c stats.c
+ ./main
+Enter a a number that is 100 or greater 1
+Invalid
+Enter a a number that is 100 or greater 162
+The menu choices are
+1. Print the array
+2. Delete Single Value
+3. Find the Mean
+4. Find the Median
+5. Find the Midpoint
+6. Find the Standard Deviation
+7. Quit the program
+Choose: 1
+Array: 
+[128, 71, 100, 80, 150, 26, 155, 121, 88, 92, 105, 32, 33, 62, 114, 113, 61, 109, 107, 11, 90, 81, 106, 142, 45, ] 
+The menu choices are
+1. Print the array
+2. Delete Single Value
+3. Find the Mean
+4. Find the Median
+5. Find the Midpoint
+6. Find the Standard Deviation
+7. Quit the program
+Choose: 2
+Choose a value to delete: 8
+Value not found 
+The menu choices are
+1. Print the array
+2. Delete Single Value
+3. Find the Mean
+4. Find the Median
+5. Find the Midpoint
+6. Find the Standard Deviation
+7. Quit the program
+Choose: 100
+Invalid choice 
+The menu choices are
+1. Print the array
+2. Delete Single Value
+3. Find the Mean
+4. Find the Median
+5. Find the Midpoint
+6. Find the Standard Deviation
+7. Quit the program
+Choose: 2
+Choose a value to delete: 100
+The menu choices are
+1. Print the array
+2. Delete Single Value
+3. Find the Mean
+4. Find the Median
+5. Find the Midpoint
+6. Find the Standard Deviation
+7. Quit the program
+Choose: 1
+Array: 
+[128, 71, 80, 150, 26, 155, 121, 88, 92, 105, 32, 33, 62, 114, 113, 61, 109, 107, 11, 90, 81, 106, 142, 45, ] 
+The menu choices are
+1. Print the array
+2. Delete Single Value
+3. Find the Mean
+4. Find the Median
+5. Find the Midpoint
+6. Find the Standard Deviation
+7. Quit the program
+Choose: 6
+the results for Standard Deviation are 39.705346
+The menu choices are
+1. Print the array
+2. Delete Single Value
+3. Find the Mean
+4. Find the Median
+5. Find the Midpoint
+6. Find the Standard Deviation
+7. Quit the program
+Choose: 5
+the results for Midpoint are 83.000000
+The menu choices are
+1. Print the array
+2. Delete Single Value
+3. Find the Mean
+4. Find the Median
+5. Find the Midpoint
+6. Find the Standard Deviation
+7. Quit the program
+Choose: 4
+the results for Median are 91.000000
+The menu choices are
+1. Print the array
+2. Delete Single Value
+3. Find the Mean
+4. Find the Median
+5. Find the Midpoint
+6. Find the Standard Deviation
+7. Quit the program
+Choose: 3
+the results for Mean are 88.416667
+The menu choices are
+1. Print the array
+2. Delete Single Value
+3. Find the Mean
+4. Find the Median
+5. Find the Midpoint
+6. Find the Standard Deviation
+7. Quit the program
+Choose: 7
+All Done
+Good Bye
+ 
